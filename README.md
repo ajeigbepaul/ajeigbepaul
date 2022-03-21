@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajeigbepaul
 - 👀 I’m interested in building softwares
-- 🌱 I’m currently learning React js with Node js
+- 🌱 I’m currently building web projects with React js.
 - 💞️ I’m looking to collaborate on React projects and open source projects
 - 📫 kindly reach me vai ajeigbepaul@yahoo.com
 
